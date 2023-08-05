@@ -38,14 +38,11 @@ Open your web browser and navigate to http://localhost:4200/ to view the Todo Li
 # Usage
 To add a new task, type the task description in the input field provided and press the Enter key or click the "Add" button.
 To delete a task, click on the trash icon next to the task you wish to remove.
-# Project Structure
-The project follows a typical Angular project structure:
 
 # css
 Copy code
 
 .
-
   
 # Contributing
 If you want to contribute to this project, feel free to open a new pull request. Contributions, bug reports, and feature requests are always welcome!
