@@ -40,9 +40,10 @@ To delete a task, click on the trash icon next to the task you wish to remove.
 # Project Structure
 The project follows a typical Angular project structure:
 
-css
+# css
 Copy code
-your-todo-list-repo/
+
+# your-todo-list-repo/
   ├── e2e/
   ├── src/
   │   ├── app/
@@ -60,5 +61,7 @@ your-todo-list-repo/
   ├── package.json
   ├── tsconfig.json
   ├── ...
-Contributing
+
+  
+# Contributing
 If you want to contribute to this project, feel free to open a new pull request. Contributions, bug reports, and feature requests are always welcome!
