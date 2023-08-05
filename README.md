@@ -7,6 +7,7 @@ You can access the live demo of the application here.
 # Features
 Add new tasks: Users can add new tasks to the Todo List.
 Delete tasks: Users can remove tasks from the Todo List.
+
 # Getting Started
 To run the project locally, follow the steps below:
 
@@ -43,24 +44,7 @@ The project follows a typical Angular project structure:
 # css
 Copy code
 
-# your-todo-list-repo/
-  ├── e2e/
-  ├── src/
-  │   ├── app/
-  │   │   ├── components/
-  │   │   │   ├── todo-list/
-  │   │   │   │   ├── todo-list.component.html
-  │   │   │   │   ├── todo-list.component.css
-  │   │   │   │   ├── todo-list.component.ts
-  │   │   ├── app.component.html
-  │   │   ├── app.component.css
-  │   │   ├── app.component.ts
-  │   ├── assets/
-  │   ├── index.html
-  ├── angular.json
-  ├── package.json
-  ├── tsconfig.json
-  ├── ...
+.
 
   
 # Contributing
